@@ -20,82 +20,82 @@ var farmArr = [
     name: "Ramesh",
     age: "34",
     gender: "M",
-    contact: "235325253",
-    city: "goa",
+    contact: "9824356712",
+    city: "Panji",
     items: ["Rice", "Wheat"]
   },
   {
-    name: "Ramesh",
-    age: "34",
+    name: "Suresh",
+    age: "43",
     gender: "M",
-    contact: "235325253",
-    city: "goa",
+    contact: "8976341256",
+    city: "New Delhi",
     items: ["Rice", "Wheat"]
   },
   {
-    name: "Ramesh",
-    age: "34",
+    name: "Sai Kiran",
+    age: "32",
     gender: "M",
-    contact: "235325253",
-    city: "goa",
+    contact: "9560167854",
+    city: "Bilaspur",
     items: ["Rice", "Wheat"]
   },
   {
-    name: "Ramesh",
-    age: "34",
+    name: "Shikhar",
+    age: "27",
     gender: "M",
-    contact: "235325253",
-    city: "goa",
+    contact: "7896537891",
+    city: "Ahemdabad",
     items: ["Rice", "Wheat"]
   },
   {
-    name: "Ramesh",
-    age: "34",
+    name: "Sunil",
+    age: "47",
     gender: "M",
-    contact: "235325253",
-    city: "goa",
+    contact: "9812256749",
+    city: "Kolkata",
     items: ["Rice", "Wheat"]
   }
 ];
 var dealArr = [
   {
-    name: "Shreyash",
-    age: "34",
+    name: "Mayank",
+    age: "22",
     gender: "M",
-    contact: "235325253",
-    city: "goa",
+    contact: "9761221345",
+    city: "Patna",
     items: ["Rice", "Wheat"]
   },
   {
-    name: "Rakesh",
+    name: "Sukhrith",
     age: "24",
     gender: "M",
-    contact: "235325253",
-    city: "surat",
+    contact: "9087762137",
+    city: "Hyderabad",
     items: ["Rice", "Wheat"]
   },
   {
-    name: "Ramesh",
-    age: "34",
+    name: "Deepansh",
+    age: "42",
     gender: "M",
-    contact: "235325253",
-    city: "goa",
+    contact: "9872345123",
+    city: "Chandigarh",
     items: ["Rice", "Wheat"]
   },
   {
-    name: "Ramesh",
-    age: "34",
+    name: "Animesh",
+    age: "27",
     gender: "M",
-    contact: "235325253",
-    city: "goa",
+    contact: "8769087342",
+    city: "Indore",
     items: ["Rice", "Wheat"]
   },
   {
-    name: "Ramesh",
-    age: "34",
+    name: "Anmol",
+    age: "31",
     gender: "M",
-    contact: "235325253",
-    city: "goa",
+    contact: "9863425671",
+    city: "Pune",
     items: ["Rice", "Wheat"]
   }
 ];
