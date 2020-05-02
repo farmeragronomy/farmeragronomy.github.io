@@ -30,7 +30,7 @@ var farmArr = [
     gender: "M",
     contact: "8976341256",
     city: "New Delhi",
-    items: ["Rice", "Wheat"]
+    items: ["Pulses", "Wheat"]
   },
   {
     name: "Sai Kiran",
@@ -38,7 +38,7 @@ var farmArr = [
     gender: "M",
     contact: "9560167854",
     city: "Bilaspur",
-    items: ["Rice", "Wheat"]
+    items: ["Rice", "Millet"]
   },
   {
     name: "Shikhar",
@@ -46,7 +46,7 @@ var farmArr = [
     gender: "M",
     contact: "7896537891",
     city: "Ahemdabad",
-    items: ["Rice", "Wheat"]
+    items: ["Sugarcane", "Wheat"]
   },
   {
     name: "Sunil",
@@ -64,7 +64,7 @@ var dealArr = [
     gender: "M",
     contact: "9761221345",
     city: "Patna",
-    items: ["Rice", "Wheat"]
+    items: ["Millet", "Pulses"]
   },
   {
     name: "Sukhrith",
@@ -72,7 +72,7 @@ var dealArr = [
     gender: "M",
     contact: "9087762137",
     city: "Hyderabad",
-    items: ["Rice", "Wheat"]
+    items: ["Rice", "Sugarcane"]
   },
   {
     name: "Deepansh",
@@ -88,7 +88,7 @@ var dealArr = [
     gender: "M",
     contact: "8769087342",
     city: "Indore",
-    items: ["Rice", "Wheat"]
+    items: ["Corn", "Wheat"]
   },
   {
     name: "Anmol",
