@@ -96,7 +96,7 @@ var dealArr = [
     gender: "M",
     contact: "9863425671",
     city: "Pune",
-    items: ["Rice", "Wheat"]
+    items: ["Rice", "Wheat", "Corn"]
   }
 ];
 
@@ -110,8 +110,11 @@ for (var i = 0; i < farmArr.length; i++) {
             <div class="card-body">
               <h4 class="card-title">${farmArr[i].name}</h4>
               <p class="card-text">Age:${farmArr[i].age}<br>Gender:${farmArr[i].gender}
-              <br>Contact:${farmArr[i].contact}<br>Items:${farmArr[0].items[0]},${farmArr[0].items[1]}</p>
+              <br>Contact:${farmArr[i].contact}<br>Items:</p>
             </div>`;
+  farmArr[i].items.forEach(item => {
+    card.innerHTML += `<li class="ml-4">${item}</li>`;
+  });
   farmers.children[0].appendChild(card);
 }
 for (var i = 0; i < dealArr.length; i++) {
@@ -121,7 +124,10 @@ for (var i = 0; i < dealArr.length; i++) {
             <div class="card-body">
               <h4 class="card-title">${dealArr[i].name}</h4>
               <p class="card-text">Age:${dealArr[i].age}<br>Gender:${dealArr[i].gender}
-              <br>Contact:${dealArr[i].contact}<br>Items:${dealArr[0].items[0]},${dealArr[0].items[1]}</p>
+              <br>Contact:${dealArr[i].contact}<br>Items:</p>
             </div>`;
+  dealArr[i].items.forEach(item => {
+    card.innerHTML += `<li class="ml-4">${item}</li>`;
+  });
   dealers.children[0].appendChild(card);
 }
